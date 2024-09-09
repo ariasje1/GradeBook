@@ -1,7 +1,7 @@
 // Author: Jesus Arias
 // GitHub username: ariasje1
 // Date: 09/09/2024
-// Description:Calculates each student's average score, assigns a corresponding letter grade, and provides an option to repeat the process.
+// Description: Calculates each student's average score, assigns a corresponding letter grade, and provides an option to repeat the process.
 
 #include <iostream>
 #include <string>
